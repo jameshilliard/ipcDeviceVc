@@ -1,0 +1,862 @@
+2015-04-20 11:21:35 Info: ConnectServer 设备ID:dx59 61.153.83.178:5061 ret:0
+2015-04-20 11:21:35 Info: Pu登录，域ID:121515, puid:121515000100000227,callid:416277741,puNmae:121515000100000227
+2015-04-20 11:21:37 Info: Pu登录带xml，域ID:121515, puid:121515000100000227,callid:416277741,puNmae:121515000100000227
+2015-04-20 11:21:37 Info: handle MSG_PU_LOGIN_RESP 
+
+2015-04-20 11:22:21 Info: ConnectServer 设备ID:dx59 61.153.83.178:5061 ret:0
+2015-04-20 11:22:21 Info: Pu登录，域ID:121515, puid:121515000100000227,callid:416277741,puNmae:121515000100000227
+2015-04-20 11:23:21 Info: ConnectServer 设备ID:dx59 61.153.83.178:5061 ret:0
+2015-04-20 11:23:21 Info: Pu登录，域ID:121515, puid:121515000100000227,callid:416277741,puNmae:121515000100000227
+2015-04-20 11:24:44 Info: ConnectServer 设备ID:dx59 61.153.83.178:5061 ret:0
+2015-04-20 11:24:44 Info: Pu登录，域ID:121515, puid:121515000100000227,callid:439228641,puNmae:121515000100000227
+2015-04-20 11:24:44 Info: Pu登录带xml，域ID:121515, puid:121515000100000227,callid:439228641,puNmae:121515000100000227
+2015-04-20 11:24:44 Info: handle MSG_PU_LOGIN_RESP 
+
+2015-04-20 11:25:14 Info: handle MSG_PU_HEART_RESP 
+
+2015-04-20 11:25:14 Info: 处理心跳 设备ID:dx59,PUID:121515000100000227 
+2015-04-20 11:25:44 Info: handle MSG_PU_HEART_RESP 
+
+2015-04-20 11:25:44 Info: 处理心跳 设备ID:dx59,PUID:121515000100000227 
+2015-04-20 22:34:22 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:34:22 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:34:41 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:34:47 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:34:47 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:34:57 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 22:37:09 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:37:09 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:37:19 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:37:19 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:37:19 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:37:29 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 22:37:29 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:37:29 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:37:42 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:2,返回ret:13
+2015-04-20 22:41:07 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:07 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:41:17 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:3,返回ret:13
+2015-04-20 22:41:17 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:17 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:41:27 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:4,返回ret:13
+2015-04-20 22:41:28 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:28 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:41:38 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:5,返回ret:13
+2015-04-20 22:41:38 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:38 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:41:48 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:6,返回ret:13
+2015-04-20 22:41:48 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:48 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:41:58 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:7,返回ret:13
+2015-04-20 22:41:58 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:41:58 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:42:21 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:42:21 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:42:31 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:42:31 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:42:31 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:42:41 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 22:42:41 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:42:41 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:44:54 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:44:54 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:45:04 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:45:04 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:45:04 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:45:14 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 22:45:14 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:45:14 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:45:24 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:2,返回ret:13
+2015-04-20 22:45:24 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:45:24 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:45:35 Info: 重练设备，设备ID:,服务器线路号:0,设备通道号:0,设备线路号:0 m_wmp_handle:3,返回ret:13
+2015-04-20 22:46:44 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:46:44 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:46:54 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:46:54 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:46:54 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:47:04 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 22:47:04 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:47:04 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:47:14 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:13
+2015-04-20 22:49:34 Info: 停止设备取流 m_wmp_handle -842150451 设备ID:
+2015-04-20 22:49:34 Info: 停止解包 m_nAnalyzeHandle -842150451 设备ID:
+2015-04-20 22:49:44 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:51:09 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-20 22:51:19 Info: 重练设备，设备ID:,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-20 23:05:55 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:06:49 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:08:51 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:09:00 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:10:11 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-20 23:10:11 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-20 23:10:12 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-20 23:10:12 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-20 23:42:50 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:42:51 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:43:30 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:43:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:56:53 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:56:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:58:09 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:58:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:58:34 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:58:34 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:58:51 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:58:51 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-20 23:59:27 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-20 23:59:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:00:18 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 00:01:46 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:01:47 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:04:20 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:04:21 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:04:37 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:13
+2015-04-21 00:04:40 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-21 00:04:40 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:04:41 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:3,返回ret:0
+2015-04-21 00:04:41 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-21 00:04:45 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:4,返回ret:0
+2015-04-21 00:04:46 Info: 初始化解包模块 m_nAnalyzeHandle:3，设备ID:dx01
+2015-04-21 00:04:50 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:5,返回ret:0
+2015-04-21 00:04:51 Info: 初始化解包模块 m_nAnalyzeHandle:4，设备ID:dx01
+2015-04-21 00:05:05 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:6,返回ret:13
+2015-04-21 00:05:07 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:7,返回ret:0
+2015-04-21 00:05:07 Info: 初始化解包模块 m_nAnalyzeHandle:5，设备ID:dx01
+2015-04-21 00:05:07 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:8,返回ret:0
+2015-04-21 00:05:07 Info: 初始化解包模块 m_nAnalyzeHandle:6，设备ID:dx01
+2015-04-21 00:07:23 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:07:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:08:48 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:08:48 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:08:53 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-21 00:08:53 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-21 00:08:58 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:3,返回ret:0
+2015-04-21 00:08:58 Info: 初始化解包模块 m_nAnalyzeHandle:3，设备ID:dx01
+2015-04-21 00:09:03 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:4,返回ret:0
+2015-04-21 00:09:03 Info: 初始化解包模块 m_nAnalyzeHandle:4，设备ID:dx01
+2015-04-21 00:10:21 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:10:31 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:10:31 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:10:32 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:10:36 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-21 00:10:37 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-21 00:11:49 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:11:51 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:11:53 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:11:53 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:13:07 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:13:39 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:13:44 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:14:33 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 00:15:08 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 00:15:38 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:16:01 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:16:04 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:16:14 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:16:14 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:16:57 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:16:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:16:58 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:16:58 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:16:58 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:16:59 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:24:25 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 00:24:30 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:24:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:24:31 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-21 00:24:31 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:24:35 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:3,返回ret:0
+2015-04-21 00:24:36 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-21 00:24:40 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:4,返回ret:0
+2015-04-21 00:24:41 Info: 初始化解包模块 m_nAnalyzeHandle:3，设备ID:dx01
+2015-04-21 00:25:36 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:25:36 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:25:40 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:25:41 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:25:41 Info: 停止设备取流 m_wmp_handle 1 设备ID:dx01
+2015-04-21 00:25:41 Info: 停止解包 m_nAnalyzeHandle 1 设备ID:dx01
+2015-04-21 00:25:42 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:25:43 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:25:43 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:25:44 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:31:45 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:31:45 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:31:47 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:31:47 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:31:47 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:31:47 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:37:03 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:37:03 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:37:05 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:37:05 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:37:05 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:37:06 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:37:11 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:37:11 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:37:27 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:37:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:39:50 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:39:50 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:39:55 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:39:55 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:41:28 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:41:28 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:41:29 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:41:29 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:41:30 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:41:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:43:52 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:45:23 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:45:24 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:45:26 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:45:26 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:45:26 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:45:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:45:52 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:45:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:45:54 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:45:54 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:45:54 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:45:54 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:51:49 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:51:49 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:55:04 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:55:04 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:55:08 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:55:08 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:55:08 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:55:08 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:57:17 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:57:18 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:57:22 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:57:22 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:57:22 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:57:23 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:57:27 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 00:57:27 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 00:58:37 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:58:37 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 00:58:39 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 00:58:39 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 00:58:40 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 00:58:40 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:00:18 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:00:39 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:08:01 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:08:07 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:08:08 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:1,返回ret:0
+2015-04-21 01:08:08 Info: 初始化解包模块 m_nAnalyzeHandle:1，设备ID:dx01
+2015-04-21 01:08:13 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:2,返回ret:0
+2015-04-21 01:08:13 Info: 初始化解包模块 m_nAnalyzeHandle:2，设备ID:dx01
+2015-04-21 01:08:18 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:3,返回ret:0
+2015-04-21 01:08:18 Info: 初始化解包模块 m_nAnalyzeHandle:3，设备ID:dx01
+2015-04-21 01:08:23 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:4,返回ret:0
+2015-04-21 01:08:23 Info: 初始化解包模块 m_nAnalyzeHandle:4，设备ID:dx01
+2015-04-21 01:08:28 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:5,返回ret:0
+2015-04-21 01:08:28 Info: 初始化解包模块 m_nAnalyzeHandle:5，设备ID:dx01
+2015-04-21 01:08:33 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:6,返回ret:0
+2015-04-21 01:08:33 Info: 初始化解包模块 m_nAnalyzeHandle:6，设备ID:dx01
+2015-04-21 01:08:38 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:7,返回ret:0
+2015-04-21 01:08:38 Info: 初始化解包模块 m_nAnalyzeHandle:7，设备ID:dx01
+2015-04-21 01:08:43 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:8,返回ret:0
+2015-04-21 01:08:43 Info: 初始化解包模块 m_nAnalyzeHandle:8，设备ID:dx01
+2015-04-21 01:08:48 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:9,返回ret:0
+2015-04-21 01:08:48 Info: 初始化解包模块 m_nAnalyzeHandle:9，设备ID:dx01
+2015-04-21 01:09:17 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:09:17 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:09:18 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 01:09:18 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 01:09:19 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:09:19 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:12:52 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:12:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:12:57 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 01:12:57 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 01:12:57 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:12:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:14:39 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:14:39 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:14:43 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 01:14:43 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 01:14:43 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:14:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 01:14:49 Info: 停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 01:14:49 Info: 停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 01:14:49 Info: 重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 01:14:49 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:08:43 Info: this 0x11496960,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:08:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:08:55 Info: this 0x11496960,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:08:55 Info: this 0x11496960,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:08:56 Info: this 0x12219504,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:07 Info: this 0x12219504,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:09:07 Info: this 0x12219152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:07 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:09:25 Info: this 0x34500000,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:25 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:09:27 Info: this 0x34500000,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:09:27 Info: this 0x34500000,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:09:27 Info: this 0x35222904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:09:30 Info: this 0x35222904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:09:30 Info: this 0x35222904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:09:30 Info: this 0x35222280,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:09:48 Info: this 0x35222280,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:09:48 Info: this 0x35222280,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:09:48 Info: this 0x35222280,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:09:49 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:10:04 Info: this 0x35222280,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:10:04 Info: this 0x35222280,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:10:05 Info: this 0x35222280,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:10:05 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:10:25 Info: this 0x35222280,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:10:25 Info: this 0x35222280,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:10:25 Info: this 0x35222280,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:10:25 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:10:42 Info: this 0x35222280,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:10:42 Info: this 0x35222280,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:10:42 Info: this 0x35222280,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:10:42 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:11:04 Info: this 0x35222280,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:11:04 Info: this 0x35222280,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:12:51 Info: this 0x15625744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:12:51 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:12:54 Info: this 0x15625744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:12:54 Info: this 0x15625744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:12:54 Info: this 0x16347624,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:12:54 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 04:13:32 Info: this 0x16347624,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 04:13:32 Info: this 0x16347624,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 04:13:32 Info: this 0x16342416,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 04:13:32 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:14:19 Info: this 0x54589380,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:14:19 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:14:23 Info: this 0x54589380,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:14:23 Info: this 0x54589380,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:14:23 Info: this 0x54589380,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:14:24 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:14:52 Info: this 0x54589380,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:14:52 Info: this 0x54589380,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:14:53 Info: this 0x54589380,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:14:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:16:54 Info: this 0x48690276,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 05:20:30 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:20:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:20:34 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:20:34 Info: this 0x51114744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:20:34 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:20:34 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:20:35 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:20:35 Info: this 0x51114744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:20:35 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:20:35 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:20:36 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:20:36 Info: this 0x51114744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:20:36 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:20:37 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:20:37 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:20:37 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:21:08 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:21:08 Info: this 0x51114744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:21:09 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:21:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:21:11 Info: this 0x51114744,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:21:11 Info: this 0x51114744,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:21:12 Info: this 0x51114744,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:21:12 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:23:23 Info: this 0x50722728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:23:23 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:23:28 Info: this 0x50722728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:23:28 Info: this 0x50722728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:23:29 Info: this 0x50722728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:23:29 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:23:30 Info: this 0x50722728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:23:30 Info: this 0x50722728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:23:30 Info: this 0x50722728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:23:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:27:10 Info: this 0x52360728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:27:10 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:27:15 Info: this 0x52360728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:27:15 Info: this 0x52360728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:27:15 Info: this 0x52360728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:27:16 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:27:16 Info: this 0x52360728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:27:16 Info: this 0x52360728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:27:17 Info: this 0x52360728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:27:17 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:27:39 Info: this 0x52360728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:27:39 Info: this 0x52360728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:27:39 Info: this 0x52360728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:27:39 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:28:35 Info: this 0x52360728,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:28:35 Info: this 0x52360728,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:28:35 Info: this 0x52360728,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:28:35 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:31:17 Info: this 0x54327152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:31:17 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:31:22 Info: this 0x54327152,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:31:22 Info: this 0x54327152,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:31:22 Info: this 0x54327152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:31:22 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:31:23 Info: this 0x54327152,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:31:23 Info: this 0x54327152,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:31:24 Info: this 0x54327152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:31:24 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:31:44 Info: this 0x54327152,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:31:46 Info: this 0x54327152,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:31:46 Info: this 0x54327152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:31:46 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:32:09 Info: this 0x54327152,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:32:09 Info: this 0x54327152,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:32:14 Info: this 0x54327152,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:32:27 Info: this 0x54327152,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:32:43 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:32:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:32:45 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:32:45 Info: this 0x52949720,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:32:45 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:32:45 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:33:05 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:33:05 Info: this 0x52949720,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:33:07 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:33:26 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:33:34 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:33:34 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:33:51 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:33:51 Info: this 0x52949720,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:33:51 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:33:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:34:12 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:34:12 Info: this 0x52949720,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:34:13 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:34:13 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:34:38 Info: this 0x52949720,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:34:38 Info: this 0x52949720,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:34:38 Info: this 0x52949720,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:34:38 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:36:49 Info: this 0x52819848,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:36:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:36:54 Info: this 0x52819848,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:36:54 Info: this 0x52819848,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:36:54 Info: this 0x52819848,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:36:54 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:37:11 Info: this 0x52819848,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:37:11 Info: this 0x52819848,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:37:11 Info: this 0x52819848,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:37:14 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:37:32 Info: this 0x52819848,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:37:32 Info: this 0x52819848,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:37:32 Info: this 0x52819848,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:37:33 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:51:58 Info: this 0x52360244,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:51:58 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:52:01 Info: this 0x52360244,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:52:01 Info: this 0x52360244,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:52:01 Info: this 0x52360244,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:52:01 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 05:52:20 Info: this 0x52360244,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 05:52:20 Info: this 0x52360244,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 05:52:20 Info: this 0x52360244,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 05:52:20 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:35:30 Info: this 0x52820160,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:35:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:35:33 Info: this 0x52820160,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:35:33 Info: this 0x52820160,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:35:33 Info: this 0x52820160,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:35:33 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:37:02 Info: this 0x52820160,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:37:02 Info: this 0x52820160,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:37:02 Info: this 0x52820160,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:37:03 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:39:57 Info: this 0x54524008,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:39:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:40:03 Info: this 0x54524008,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:40:03 Info: this 0x54524008,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:40:03 Info: this 0x54524008,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:40:03 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:40:04 Info: this 0x54524008,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:40:04 Info: this 0x54524008,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:40:04 Info: this 0x54524008,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:40:05 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:41:14 Info: this 0x52033520,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:41:14 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:41:16 Info: this 0x52033520,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:41:16 Info: this 0x52033520,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:41:16 Info: this 0x52033520,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:41:16 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:45:31 Info: this 0x53082680,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:45:31 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 11:45:33 Info: this 0x53082680,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 11:45:33 Info: this 0x53082680,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 11:45:33 Info: this 0x53082680,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 11:45:33 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:07:16 Info: this 0x47314932,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:07:16 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:09:58 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:09:58 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:32 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:32 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:33 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:33 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:37 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:37 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:38 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:38 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:42 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:42 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:42 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:42 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:47 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:47 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:47 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:47 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:52 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:52 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:52 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:11:57 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:11:57 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:11:58 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:11:58 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:12:02 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:12:02 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:12:03 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:12:03 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:12:07 Info: this 0x53408812,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:12:07 Info: this 0x53408812,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:12:08 Info: this 0x53408812,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:12:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:13:48 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:13:48 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:13:53 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:13:53 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:13:53 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:13:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:13:58 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:13:58 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:13:58 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:13:58 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:09 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:09 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:09 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:10 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:14 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:14 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:15 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:15 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:19 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:19 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:20 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:20 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:25 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:25 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:25 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:25 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:30 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:30 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:30 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:14:35 Info: this 0x52098440,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:14:35 Info: this 0x52098440,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:14:35 Info: this 0x52098440,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:14:35 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:15:46 Info: this 0x52164480,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:15:46 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:15:48 Info: this 0x52164480,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:15:48 Info: this 0x52164480,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:15:48 Info: this 0x52164480,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:15:48 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:15:57 Info: this 0x52164480,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:15:57 Info: this 0x52164480,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:15:57 Info: this 0x52164480,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:15:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:17:38 Info: this 0x55179796,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:17:38 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:17:39 Info: this 0x55179796,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:17:39 Info: this 0x55179796,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:17:40 Info: this 0x55179796,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:17:40 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:18:50 Info: this 0x52296120,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:18:50 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:18:52 Info: this 0x52296120,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:18:52 Info: this 0x52296120,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:18:52 Info: this 0x52296120,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:18:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:19:56 Info: this 0x50133536,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:19:56 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:20:01 Info: this 0x50133536,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:20:01 Info: this 0x50133536,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:20:02 Info: this 0x50133536,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:20:02 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:20:03 Info: this 0x50133536,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:20:03 Info: this 0x50133536,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:20:03 Info: this 0x50133536,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:20:03 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:21:08 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:21:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:21:10 Info: this 0x51312492,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:21:10 Info: this 0x51312492,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:21:10 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:21:10 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:21:25 Info: this 0x51312492,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:21:25 Info: this 0x51312492,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:21:26 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:21:26 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:21:45 Info: this 0x51312492,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:21:45 Info: this 0x51312492,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:21:45 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:21:45 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:22:01 Info: this 0x51312492,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:22:01 Info: this 0x51312492,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:22:01 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:22:01 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:22:24 Info: this 0x51312492,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:22:24 Info: this 0x51312492,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:22:24 Info: this 0x51312492,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:22:25 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:23:46 Info: this 0x53671932,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:23:46 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:23:47 Info: this 0x53671932,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:23:47 Info: this 0x53671932,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:23:48 Info: this 0x53671932,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:23:48 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:35:47 Info: this 0x52558236,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:35:47 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:35:49 Info: this 0x52558236,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:35:49 Info: this 0x52558236,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:35:49 Info: this 0x52558236,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:35:49 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:37:21 Info: this 0x51770524,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:37:22 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:37:23 Info: this 0x51770524,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:37:23 Info: this 0x51770524,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:37:23 Info: this 0x51770524,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:37:23 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:37:26 Info: this 0x51770524,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:37:26 Info: this 0x51770524,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:37:26 Info: this 0x51770524,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:37:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:39:28 Info: this 0x53148068,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:39:28 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 13:39:30 Info: this 0x53148068,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 13:39:30 Info: this 0x53148068,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 13:39:30 Info: this 0x53148068,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 13:39:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:15:23 Info: this 0x53147200,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:15:23 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:15:25 Info: this 0x53147200,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:15:25 Info: this 0x53147200,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:15:25 Info: this 0x53147200,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:15:25 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:16:17 Info: this 0x51574660,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:16:17 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:16:19 Info: this 0x51574660,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:16:19 Info: this 0x51574660,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:16:19 Info: this 0x51574660,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:16:20 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:22:34 Info: this 0x52622144,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:22:34 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:22:36 Info: this 0x52622144,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:22:36 Info: this 0x52622144,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:22:36 Info: this 0x52622144,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:22:36 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:22:46 Info: this 0x52622144,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:22:46 Info: this 0x52622144,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:22:56 Info: this 0x52622144,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 15:22:59 Info: this 0x52622144,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:23:09 Info: this 0x52622144,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 15:23:13 Info: this 0x52622144,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:23:14 Info: this 0x52622144,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:23:14 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:24:55 Info: this 0x52623968,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:24:55 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:24:57 Info: this 0x52623968,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:24:57 Info: this 0x52623968,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:24:57 Info: this 0x52623968,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:24:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:25:05 Info: this 0x52623968,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:25:05 Info: this 0x52623968,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:25:06 Info: this 0x52623968,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:25:06 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:25:14 Info: this 0x52623968,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:25:14 Info: this 0x52623968,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:25:15 Info: this 0x52623968,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:25:15 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:25:27 Info: this 0x52623968,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:25:27 Info: this 0x52623968,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:25:28 Info: this 0x52623968,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:25:28 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:05 Info: this 0x38318920,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:05 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:12 Info: this 0x38318920,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:12 Info: this 0x38318920,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:13 Info: this 0x38318920,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:13 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:18 Info: this 0x38318920,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:18 Info: this 0x38318920,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:18 Info: this 0x38318920,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:18 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:23 Info: this 0x38318920,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:23 Info: this 0x38318920,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:23 Info: this 0x38318920,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:23 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:29 Info: this 0x38318920,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:29 Info: this 0x38318920,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:29 Info: this 0x38318920,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:29 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:42 Info: this 0x38778944,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:42 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:43 Info: this 0x38778944,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:43 Info: this 0x38778944,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:44 Info: this 0x38778944,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:44 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:28:56 Info: this 0x38778944,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:28:56 Info: this 0x38778944,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:28:56 Info: this 0x38778944,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:28:56 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:32:57 Info: this 0x34584552,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:32:57 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:32:59 Info: this 0x34584552,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:32:59 Info: this 0x34584552,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:32:59 Info: this 0x34584552,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:32:59 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:33:35 Info: this 0x36877128,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:33:35 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:33:37 Info: this 0x36877128,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:33:37 Info: this 0x36877128,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:33:37 Info: this 0x36877128,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:33:37 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:34:36 Info: this 0x7649208,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:34:36 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:34:38 Info: this 0x7649208,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:34:38 Info: this 0x7649208,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:34:38 Info: this 0x7649208,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:34:38 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:35:30 Info: this 0x33273272,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:35:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:35:31 Info: this 0x33273272,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:35:31 Info: this 0x33273272,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:35:31 Info: this 0x33273272,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:35:32 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:40:40 Info: this 0x14398216,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:40:40 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:40:43 Info: this 0x14398216,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:40:43 Info: this 0x14398216,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:40:43 Info: this 0x14398216,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:40:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:40:45 Info: this 0x14398216,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:40:45 Info: this 0x14398216,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:40:45 Info: this 0x14398216,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:40:45 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:41:54 Info: this 0x10597192,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:41:54 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:41:56 Info: this 0x10597192,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:41:56 Info: this 0x10597192,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:42:06 Info: this 0x10597192,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:13
+2015-04-21 15:42:09 Info: this 0x10597192,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:42:09 Info: this 0x10597192,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:42:10 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:45:02 Info: this 0x37926840,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:45:02 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:45:04 Info: this 0x37926840,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:45:04 Info: this 0x37926840,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:45:04 Info: this 0x37926840,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:45:04 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:46:33 Info: this 0x37664792,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:46:33 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:46:34 Info: this 0x37664792,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:46:34 Info: this 0x37664792,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:46:35 Info: this 0x37664792,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:46:35 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:47:39 Info: this 0x15185976,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:47:39 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:49:27 Info: this 0x15185976,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:49:27 Info: this 0x15185976,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:49:27 Info: this 0x15185976,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:49:27 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:49:28 Info: this 0x15185976,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:49:28 Info: this 0x15185976,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:49:28 Info: this 0x15185976,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:49:28 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:50:39 Info: this 0x37795904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:50:39 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:50:41 Info: this 0x37795904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:50:41 Info: this 0x37795904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:50:41 Info: this 0x37795904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:50:41 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:51:48 Info: this 0x39303224,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:51:48 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:51:49 Info: this 0x39303224,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:51:49 Info: this 0x39303224,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:51:49 Info: this 0x39303224,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:51:50 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:53:51 Info: this 0x15185984,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:53:52 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:53:53 Info: this 0x15185984,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:53:53 Info: this 0x15185984,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:53:53 Info: this 0x15185984,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:53:54 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:55:38 Info: this 0x10728904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:55:38 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:55:42 Info: this 0x10728904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:55:42 Info: this 0x10728904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:55:42 Info: this 0x10728904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:55:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:55:47 Info: this 0x10728904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:55:47 Info: this 0x10728904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:55:47 Info: this 0x10728904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:55:48 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:55:52 Info: this 0x10728904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:55:52 Info: this 0x10728904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:55:53 Info: this 0x10728904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:55:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:55:57 Info: this 0x10728904,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:55:57 Info: this 0x10728904,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:55:58 Info: this 0x10728904,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:55:58 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:56:06 Info: this 0x35567040,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:56:07 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:56:08 Info: this 0x35567040,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:56:08 Info: this 0x35567040,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:56:08 Info: this 0x35567040,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:56:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:59:07 Info: this 0x39499832,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:59:07 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 15:59:08 Info: this 0x39499832,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 15:59:08 Info: this 0x39499832,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 15:59:08 Info: this 0x39499832,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 15:59:09 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:00:41 Info: this 0x7125008,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:00:41 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:00:42 Info: this 0x7125008,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:00:42 Info: this 0x7125008,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:00:43 Info: this 0x7125008,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:00:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:05:30 Info: this 0x38254608,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:05:30 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:05:31 Info: this 0x38254608,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:05:31 Info: this 0x38254608,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:05:31 Info: this 0x38254608,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:05:32 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:10:43 Info: this 0x10205272,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:10:43 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:10:45 Info: this 0x10205272,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:10:45 Info: this 0x10205272,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:10:45 Info: this 0x10205272,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:10:45 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:14:50 Info: this 0x4109176,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:14:50 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:14:53 Info: this 0x4109176,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:14:53 Info: this 0x4109176,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:14:53 Info: this 0x4109176,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:14:53 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:15:02 Info: this 0x4109176,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:15:02 Info: this 0x4109176,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:15:02 Info: this 0x4109176,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:15:02 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01
+2015-04-21 16:15:10 Info: this 0x4109176,停止设备取流 m_wmp_handle 0 设备ID:dx01
+2015-04-21 16:15:10 Info: this 0x4109176,停止解包 m_nAnalyzeHandle 0 设备ID:dx01
+2015-04-21 16:15:10 Info: this 0x4109176,重练设备，设备ID:dx01,服务器线路号:2,设备通道号:1,设备线路号:0 m_wmp_handle:0,返回ret:0
+2015-04-21 16:15:10 Info: 初始化解包模块 m_nAnalyzeHandle:0，设备ID:dx01

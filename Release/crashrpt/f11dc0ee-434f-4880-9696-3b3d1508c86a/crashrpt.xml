@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<CrashRpt version="1402">
+    <CrashGUID>f11dc0ee-434f-4880-9696-3b3d1508c86a</CrashGUID>
+    <AppName>MyApp</AppName>
+    <AppVersion>1.0.0</AppVersion>
+    <ImageName>G:\OnLineProject\zyrh\zyrh2xh\Release\zyrh2xh.exe</ImageName>
+    <OperatingSystem>Windows 7 Ultimate Build 7601</OperatingSystem>
+    <OSIs64Bit>1</OSIs64Bit>
+    <GeoLocation>zh-cn</GeoLocation>
+    <SystemTimeUTC>2015-04-21T07:06:07Z</SystemTimeUTC>
+    <ExceptionAddress>0x74ecc42d</ExceptionAddress>
+    <ExceptionModule>C:\Windows\SysWOW64\KERNELBASE.dll</ExceptionModule>
+    <ExceptionModuleBase>0x74ec0000</ExceptionModuleBase>
+    <ExceptionModuleVersion>6.1.7601.18798</ExceptionModuleVersion>
+    <ExceptionType>0</ExceptionType>
+    <ExceptionCode>0</ExceptionCode>
+    <GUIResourceCount>4</GUIResourceCount>
+    <OpenHandleCount>209</OpenHandleCount>
+    <MemoryUsageKbytes>10344</MemoryUsageKbytes>
+    <CustomProps>
+        <Prop name="VideoCard" value="nVidia GeForce 8600 GTS" />
+    </CustomProps>
+    <FileList>
+        <FileItem name="crashdump.dmp" description="Crash Minidump" />
+        <FileItem name="crashrpt.xml" description="Crash Description XML" />
+    </FileList>
+</CrashRpt>
