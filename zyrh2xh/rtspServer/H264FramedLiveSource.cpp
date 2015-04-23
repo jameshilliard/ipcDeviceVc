@@ -348,11 +348,20 @@ bool H264FrameDeviceSource::GetVideoData(unsigned char *ptData,unsigned int &fra
 	}
 	if(!m_h264Data.empty())
 	{
+		
 		boost::asio::detail::mutex::scoped_lock lock(m_mutex);
 		frameSize=m_h264Data.top().length();
-		memcpy(ptData,m_h264Data.top().c_str(),frameSize);
+		printf("this time:%d,this 0x%x,fFrameSize 1 is %d--%d--\n",GetTickCount(),this,frameSize,m_h264Data.size());
+		if(frameSize<dataMaxSize)
+			memcpy(ptData,m_h264Data.top().c_str(),frameSize);
+		else
+		{	
+			memcpy(ptData,m_h264Data.top().c_str(),dataMaxSize);
+			frameSize=dataMaxSize;
+		}
+
 		m_h264Data.pop();
-		printf("this time:%d,this 0x%x,fFrameSize 1 is %d--%d--\n",GetTickCount(),this,frameSize,m_h264Data.size());	
+			
 		return true;
 	}
 	else
