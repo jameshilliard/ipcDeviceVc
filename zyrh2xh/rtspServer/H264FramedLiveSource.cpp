@@ -10,6 +10,7 @@ H264FramedLiveSource::H264FramedLiveSource(UsageEnvironment& env,H264FrameDevice
 	//Framed_databuf = databuf;//数据区指针
 	//Framed_dosent = dosent;//发送标示
 	m_ptH264FrameDeviceSource=ptH264FrameDeviceSource;
+	m_curVideoIndex=0;
 }
 
 H264FramedLiveSource* H264FramedLiveSource::createNew(UsageEnvironment& env, H264FrameDeviceSource *ptH264FrameDeviceSource, unsigned preferredFrameSize, unsigned playTimePerFrame)
@@ -33,7 +34,7 @@ void H264FramedLiveSource::doGetNextFrame()
 	bool bRet=true;
 	//while(bRet)
 	{
-		bRet=m_ptH264FrameDeviceSource->GetVideoData(fTo+dataSize,frameSize,fMaxSize-dataSize);
+		bRet=m_ptH264FrameDeviceSource->GetVideoData(fTo+dataSize,frameSize,fMaxSize-dataSize,m_curVideoIndex);
 		dataSize+=frameSize;
 		fFrameSize=dataSize;
 
@@ -254,6 +255,22 @@ int GetH246FromPs(char* buffer,int length, char **h264Buffer, int *h264length)
 	
 	return *h264length;
 }
+void H264FrameDeviceSource::ControlDevice()
+{
+	while(1)
+	{
+		switch(m_cmdType)
+		{
+		case 1:
+				StopDev();
+				m_cmdType=0;
+				break;
+		default:
+			break;
+		}
+		Sleep(200);
+	}
+}
 
 H264FrameDeviceSource::H264FrameDeviceSource(SDKServerData nSdkServerData)
 {
@@ -262,10 +279,13 @@ H264FrameDeviceSource::H264FrameDeviceSource(SDKServerData nSdkServerData)
 	m_stream_handle=-1;
 	m_wmp_handle=-1;
 	m_buf = new char[512*1024];
+	m_cmdType=0;
+	m_DevcieThead.StartThread(boost::bind(&H264FrameDeviceSource::ControlDevice,this));
 }
 H264FrameDeviceSource::~H264FrameDeviceSource()
 {
 	delete[] m_buf;
+	m_DevcieThead.StopThread();
 }
 bool H264FrameDeviceSource::InPutPsData(unsigned char* videoPsBuf,unsigned int  psBufsize,int nType )
 {
@@ -316,13 +336,18 @@ bool H264FrameDeviceSource::zyrh_AnalyzeDataGetPacketEx(char* h264OutBuf,unsigne
 					//FILE *pf;	fopen_s(&pf, "./test_w.264", "a+");	
 					//fwrite(ptrBuffer, 1, length, pf);
 					//fclose(pf);		
-					boost::asio::detail::mutex::scoped_lock lock(m_mutex);
-					m_h264Data.push(temp);
+					if(m_h264Data.size()>100)
+					{
+						m_cmdType=1;
+					}
+					else
+					{
+						boost::asio::detail::mutex::scoped_lock lock(m_mutex);
+						m_h264Data.push(temp);
+					}
 					printf("this 0x%x,insert data size is %d   stask %d\n",this,temp.length(),m_h264Data.size());
 				}
-
 			}
-
 			//Sleep(30);
 			//ConvertPsToRtp(&stPacket);
 		}
@@ -335,7 +360,7 @@ bool H264FrameDeviceSource::zyrh_AnalyzeDataGetPacketEx(char* h264OutBuf,unsigne
 	return false;
 }
 
-bool H264FrameDeviceSource::GetVideoData(unsigned char *ptData,unsigned int &frameSize,unsigned int dataMaxSize)
+bool H264FrameDeviceSource::GetVideoData(unsigned char *ptData,unsigned int &frameSize,unsigned int dataMaxSize,unsigned int &curVideoIndex)
 {
 	unsigned int timeOut=0;
 	while(m_h264Data.empty())
@@ -351,17 +376,24 @@ bool H264FrameDeviceSource::GetVideoData(unsigned char *ptData,unsigned int &fra
 		
 		boost::asio::detail::mutex::scoped_lock lock(m_mutex);
 		frameSize=m_h264Data.top().length();
-		printf("this time:%d,this 0x%x,fFrameSize 1 is %d--%d--\n",GetTickCount(),this,frameSize,m_h264Data.size());
+		if(curVideoIndex!=0)
+		{	
+			frameSize=frameSize-curVideoIndex;
+		}
+		//printf("this time:%d,this 0x%x,fFrameSize 1 is %d--%d--\n",GetTickCount(),this,frameSize,m_h264Data.size());
 		if(frameSize<dataMaxSize)
-			memcpy(ptData,m_h264Data.top().c_str(),frameSize);
+		{
+			memcpy(ptData,m_h264Data.top().c_str()+curVideoIndex,frameSize);
+			curVideoIndex=0;
+		}	
 		else
 		{	
-			memcpy(ptData,m_h264Data.top().c_str(),dataMaxSize);
+			memcpy(ptData,m_h264Data.top().c_str()+curVideoIndex,dataMaxSize);
 			frameSize=dataMaxSize;
+			curVideoIndex=curVideoIndex+dataMaxSize;
 		}
-
-		m_h264Data.pop();
-			
+		if(curVideoIndex==0)
+			m_h264Data.pop();
 		return true;
 	}
 	else
@@ -408,7 +440,7 @@ void H264FrameDeviceSource::StopDev()
 	if (m_wmp_handle != -1)
 	{
 		WMP_Stop(m_wmp_handle,m_stream_handle);
-		WMP_Close(m_wmp_handle);
+		//WMP_Close(m_wmp_handle);
 		g_logInfo.Write2Caching("this 0x%d,停止设备取流 m_wmp_handle %d 设备ID:%s",this,m_wmp_handle,m_SdkServerData.m_sDevId.c_str());
 		m_wmp_handle = -1;
 	}
@@ -418,6 +450,7 @@ void H264FrameDeviceSource::StopDev()
 		g_logInfo.Write2Caching("this 0x%d,停止解包 m_nAnalyzeHandle %d 设备ID:%s",this,m_nAnalyzeHandle,m_SdkServerData.m_sDevId.c_str());
 		m_nAnalyzeHandle = -1;
 	}
+	boost::asio::detail::mutex::scoped_lock lock(m_mutex);
 	while(!m_h264Data.empty())
 		m_h264Data.pop();
 }

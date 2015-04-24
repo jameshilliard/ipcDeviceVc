@@ -150,7 +150,6 @@ int DeviceServer::startRtspServer(int rtspServerPort)
 #endif
 
  	H264FrameDeviceSource * nH264FrameDeviceSource = new H264FrameDeviceSource(m_sdkServerData);
-
 	//上面的部分除了模拟网络传输的部分外其他的基本跟live555提供的demo一样，而下面则修改为网络传输的形式，为此重写addSubsession的第一个参数相关文件
 	char const* streamName = "ch1/main/av_stream";
 	ServerMediaSession* sms = ServerMediaSession::createNew(*env, streamName, streamName,descriptionString);
@@ -185,32 +184,5 @@ void DeviceServer::runRtspServerActivity()
 	
 	std::cout << "rtspServer stopped."<<rtspServerPort << std::endl;
 }
-
-
-#if 0
-void DeviceServer::initialize(Application& self)
-{
-	loadConfiguration();
-	ServerApplication::initialize(self);
-}
-	
-void DeviceServer::uninitialize()
-{
-	ServerApplication::uninitialize();
-}
-
-int DeviceServer::main(const std::vector<std::string>& args)
-{
-	ServerSocket svs(commServerPort);
-	TCPServer srv(new DeviceServerConnectionFactory(), svs);
-	// start the TCPServer
-	srv.start();
-	// wait for CTRL-C or kill
-	waitForTerminationRequest();
-	// Stop the TCPServer
-	srv.stop();
-	return Application::EXIT_OK;
-}
-#endif
 
 

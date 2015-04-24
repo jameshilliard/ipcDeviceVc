@@ -7,6 +7,7 @@
 #include "../devsdk/wmpclient.h"
 #include "../devsdk/AnalyzeDataInterface.h"
 #include <boost/asio/detail/mutex.hpp>
+#include "../Thread.h"
 
 class SDKServerData
 {
@@ -100,7 +101,7 @@ class H264FrameDeviceSource
 public:
 
 	H264FrameDeviceSource(SDKServerData nSdkServerData);
-	bool GetVideoData(unsigned char *ptData,unsigned int &frameSize,unsigned int dataMaxSize);
+	bool GetVideoData(unsigned char *ptData,unsigned int &frameSize,unsigned int dataMaxSize,unsigned int &curVideoIndex);
 	
 	~H264FrameDeviceSource();
 	
@@ -109,6 +110,7 @@ public:
 	bool StartDev();
 	void StopDev();
 	bool ReStartDev();
+	void ControlDevice();
 	bool InPutPsData(unsigned char* videoPsBuf,unsigned int  psBufsize,int nType );
 	bool zyrh_AnalyzeDataGetPacketEx(char* h264OutBuf,unsigned int& nh264Size,unsigned int& TimeStamp,unsigned int& nDataType);
 	//***********************zyrh end******************************	
@@ -119,8 +121,10 @@ public:
 	int	 		m_nAnalyzeHandle;
 	std::string m_strHead;
 	char* 		m_buf;
+	int			m_cmdType;
 	boost::asio::detail::mutex m_mutex;
 	std::stack<std::string > m_h264Data;
+	CThread m_DevcieThead;
 
 private:
 	WMP_HANDLE m_wmp_handle;
@@ -156,6 +160,7 @@ protected:
 
 	//int readbufsize;//记录已读取数据区大小
 	//int bufsizel;//记录数据区大小
+	unsigned int m_curVideoIndex;
 	
 public:
 	H264FrameDeviceSource *m_ptH264FrameDeviceSource;
