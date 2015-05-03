@@ -102,7 +102,7 @@ void DeviceServer::runCommServerActivity()
 	srv.start();
 	while (!_commServerActivity.isStopped())
 	{
-		std::cout << "commServer running." << std::endl;
+		//std::cout << "commServer running." << std::endl;
 		//this->run();
 		Thread::sleep(5000);
 	}
@@ -156,17 +156,13 @@ int DeviceServer::startRtspServer(int rtspServerPort)
 	sms->addSubsession(H264LiveVideoServerMediaSubssion::createNew(*env, reuseFirstSource,nH264FrameDeviceSource));//修改为自己实现的H264LiveVideoServerMediaSubssion
 	rtspServer->addServerMediaSession(sms);
 	announceStream(rtspServer, sms, streamName);//提示用户输入连接信息
-	while(1)
+	try
+	{		
+		env->taskScheduler().doEventLoop(); //循环等待连接
+	}
+	catch(...)
 	{
-		try
-		{		
-			env->taskScheduler().doEventLoop(); //循环等待连接
-		}
-		catch(...)
-		{
-			printf("CException--\n");
-		}
-		Sleep(1000);
+		printf("CException--\n");
 	}
 	//free(databuf);//释放掉内存
 	return 0;
